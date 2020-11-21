@@ -14,7 +14,7 @@ body{
 
 }
 .navbar{
-    background-image: linear-gradient(to right,#1c1a1d,#305c8c);
+    background-image: linear-gradient(to right,#305c8c,#19191f);
     padding: 0;
     
 }
@@ -53,18 +53,19 @@ color: #fafafa;
 
     /*-----------------------------------------Banner-----------------------------------------------*/
 #banner{
-    background-image:  linear-gradient(to right,#1c1a1d,#305c8c);
+    background-image:  linear-gradient(to right,#305c8c,#19191f);
     color:#fff;
     padding-top: 5%;
     text-align: center;
 }
 #reason{
-    background-image: linear-gradient(to right,#1c1a1d,#305c8c);
+    background-image: linear-gradient(to right,#305c8c,#19191f);
     padding-top: 20px; 
 }
 h2{color: #fafafa;
 font-family: "Roboto",sans-serif;
 text-align: center;}
+
 .w-100{
      height: 400px;
      }
@@ -93,5 +94,76 @@ h5{
     font-size: 50px;
 }     
 
+.bottom-img{
+    width: 100%;}
+/*------------------------------------------------------textimonials------------------------*/
+.title{
+    color: #2d6096;
+    font-family: "Exo",sans-serif;
+    font-weight: 700;
 
-
+}
+.title::before{
+    content: '';
+    background: #1c4979;
+    height: 5px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    transform: translateY(63px);
+}
+.title::after{
+    content: '';
+    background: #1c4979;
+    height: 10px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    display: block;
+    transform: translateY(18px);
+}
+.testimonial{
+    border-left: 4px solid #1c4979;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.testimonial img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+.user-detail{
+    display: inline-block;
+    font-size: 12px;
+}
+/*-------------------------------------------Social media---------------------------------*/
+#social-media{
+    background: #f8f9fa;
+    padding: 100px 0;
+}
+#social-media p{
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.social-icons i{
+    padding: 0 30px;}
+.social-icons a i{
+    height: 60px;
+    width:60px;
+    transition: 0.5s;
+    font-size: 25px;
+    padding: 12px 5px;
+    border-radius: 50%;
+    line-height: 35px;
+    text-align: center;
+    color: #fafafa;
+    background: #1c4979;
+    
+}
+.social-icons a:hover i{
+    transform: translateY(-20px);
+}
