@@ -210,3 +210,10 @@ h5{
 h6{
 font-size:20px;
 }
+#photo {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0px;
+    margin: 0 auto;
+}
