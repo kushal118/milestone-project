@@ -210,10 +210,35 @@ h5{
 h6{
 font-size:20px;
 }
-#photo {
-    clear: both;
-    line-height: 0;
-    column-count: 3;
-    column-gap: 0px;
-    margin: 0 auto;
+
+/*----------------------------------------gallery--------------------------*/ 
+
+
+.container1{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+    height: 300;
+    width: 400;
+    transition: .5s delay;
+    
+}
+.container1 .image{
+    margin: 5px;
+}
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:500px;
+    display:block;
+    z-index:999;
+    transform: scale(1.5);
 }
