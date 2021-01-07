@@ -14,7 +14,7 @@ body{
 
 }
 .navbar{
-    background-image: linear-gradient(to right,#305c8c,#3a3aaa);
+    background-image: linear-gradient(to right,#1d1f21,#3a3aaa);
     padding: 0;
     
 }
@@ -53,13 +53,13 @@ color: #fafafa;
 
     /*-----------------------------------------Banner-----------------------------------------------*/
 #banner{
-    background-image:  linear-gradient(to right,#305c8c,#3a3aaa);
+    background-image:  linear-gradient(to right,#1d1f21,#3a3aaa);
     color:#fff;
     padding-top: 5%;
     text-align: center;
 }
 #reason{
-    background-image: linear-gradient(to right,#305c8c,#3a3aaa);
+    background-image: linear-gradient(to right,#1d1f21,#3a3aaa);
     padding-top: 20px; 
 }
 h2{color: #fafafa;
@@ -67,13 +67,13 @@ font-family: "Roboto",sans-serif;
 text-align: center;}
 
 .w-100{
-     height: 400px;
+     height: 500px;
      }
 
 .carousel-item::after{
     content: "";
     width: 100%;
-    height: 400px;
+    height: 500px;
     background-color: #333;
     position: absolute;
     top: 0;
@@ -169,7 +169,7 @@ h5{
 }
 /*-----------------------------footer---------------------*/
 #footer{
-    background-image: linear-gradient(to right,#305c8c,#3a3aaa); 
+    background-image: linear-gradient(to right,#1d1f21,#3a3aaa); 
     color: #fff;
     margin: 0;
 }
@@ -224,13 +224,13 @@ font-size:20px;
 img {
     vertical-align: middle;
     border-style: none;
-    height: 300;
-    width: 400;
-    transition: .5s delay;
+    height: 300px;
+    width: 400px;
+    
     
 }
 .container1 .image{
-    margin: 5px;
+    margin: 1px;
 }
 .thumbnail:hover {
     position:relative;
@@ -241,4 +241,53 @@ img {
     display:block;
     z-index:999;
     transform: scale(1.5);
+}
+
+/*-------------------------------------------signup form---------------------------------*/
+
+#signup{
+    
+    padding: 10%;
+    font-family: sans-serif;
+    background-image:  linear-gradient(to right,#1d1f21,#3a3aaa);
+    padding-bottom: 20%;
+}
+
+
+
+.sign-up-form{
+    width: 300px;
+    height: auto;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    margin: 8% auto;
+    text-align: center;
+
+}
+.or{
+    color: #1d1f21;
+}
+.sign-up-form h3{
+    color: rgb(85, 85, 185);
+    margin-bottom: 30px;
+}
+
+
+.input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 90%;
+    border: 1px solid #999;
+    outline: none;
+    
+}
+button{
+    font-size: 15px;
+    margin: 10px 0;
+    outline: none;
+    border: none;
+    cursor: pointer;}
+.signup-btn{
+    border-radius: 20px;
 }
