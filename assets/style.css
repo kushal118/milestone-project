@@ -301,4 +301,11 @@ hr{
     background: #fff;
     width: 30px;
     margin: -28px auto 10px;
+    font-weight: 600;
+}
+.account{
+    padding: 5%;
+}
+.signup-btn:hover{
+    background-color: red;
 }
