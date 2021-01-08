@@ -264,9 +264,7 @@ img {
     text-align: center;
 
 }
-.or{
-    color: #1d1f21;
-}
+
 .sign-up-form h3{
     color: rgb(85, 85, 185);
     margin-bottom: 30px;
@@ -290,4 +288,17 @@ button{
     cursor: pointer;}
 .signup-btn{
     border-radius: 20px;
+}
+a{
+    text-decoration: none;
+ }
+hr{
+     margin-top: 20px;
+     
+ }
+.or{
+    color: #1d1f21;
+    background: #fff;
+    width: 30px;
+    margin: -28px auto 10px;
 }
