@@ -62,9 +62,12 @@ color: #fafafa;
     background-image: linear-gradient(to right,#1d1f21,#3a3aaa);
     padding-top: 20px; 
 }
-h2{color: #fafafa;
+
+h2{
+color: #fafafa;
 font-family: "Roboto",sans-serif;
-text-align: center;}
+text-align: center;
+}
 
 .w-100{
      height: 500px;
@@ -211,6 +214,93 @@ h6{
 font-size:20px;
 }
 
+
+/*-------------------------------------------------------------About Us-----------------------------------------*/
+.bio-frame {
+  background-color: transparent;
+  margin: 40px 20px 20px 20px;
+  text-align: center;
+  font-family: "lobster", sans-serif;
+  color:rgb(5, 16, 27);
+  overflow-wrap: normal;
+  border-top: 5px solid #3a3aaa;
+  text-shadow: 2px 2px rgb(228, 222, 227);
+  min-width: 400px;
+  max-width: 550px;
+}
+.bio-frame h3 {
+  padding-top: 10px;
+  font-size: 40px;
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+.bio-frame h4 {
+  padding-top: 10px;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+.bio-image {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  /* - code for circle outline from user Heraldmonkey at https://stackoverflow.com/questions/5394116/outline-radius */
+  border: #1d1f21 solid 5px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 0px 2px #fafafa inset;
+  float: left;
+  top: -50px;
+  left: -25px;
+  cursor: pointer;
+}
+.bio-accordion {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.bio-accordion .card {
+  background-color: transparent;
+}
+
+.bio-accordion .card-body {
+  font-family: "Long Cang", sans-serif;
+  font-size: 25px;
+}
+.bio-frame a {
+  color: #ea3c53;
+  text-decoration: none;
+}
+
+.bio-frame button {
+  color: black;
+  text-decoration: none;
+
+  width: 100%;
+  height: 20%;
+  font-size: 24px;
+}
+
+.bio-frame button:hover {
+  color: red;
+  text-decoration: none;
+}
+
+.btn.focus,
+.btn:focus {
+  box-shadow: none;
+  outline: none;
+}
+/* ---- Code from https://stackoverflow.com/questions/7273927/image-greyscale-with-css-re-color-on-mouse-over */
+.bio-img {
+  filter: url(filters.svg#grayscale);
+  /* Firefox 3.5+ */
+
+  -webkit-filter: grayscale(1);
+  /* Google Chrome & Safari 6+ */
+}
+img:hover {
+  filter: none;
+  -webkit-filter: none;
+}
 /*----------------------------------------gallery--------------------------*/ 
 
 
