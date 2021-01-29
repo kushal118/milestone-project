@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;300;400;500;600;700&family=Roboto:wght@100;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;300;400;500;600;700&family=Roboto:wght@100;400;500;700;900&display=swap');@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Long+Cang&display=swap");
+
 *{
     margin: 0;
     padding: 0;
@@ -216,12 +218,15 @@ font-size:20px;
 
 
 /*-------------------------------------------------------------About Us-----------------------------------------*/
+#about{
+    font-family: sans-serif;
+}
 .bio-frame {
   background-color: transparent;
   margin: 40px 20px 20px 20px;
   text-align: center;
   font-family: "lobster", sans-serif;
-  color:rgb(5, 16, 27);
+  color:rgb(1, 6, 10);
   overflow-wrap: normal;
   border-top: 5px solid #3a3aaa;
   text-shadow: 2px 2px rgb(228, 222, 227);
