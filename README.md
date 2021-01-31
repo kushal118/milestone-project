@@ -1,10 +1,10 @@
 # Adventure Club - Milestone project 1
 
-##Disclaimer
+## Disclaimer
 This website is for educational purpose only.This website informations are fictional and will not be deployed any from rather than for assesment.
 Most of the pictures are taken by me and some of them I took from different sites.See Media credit section for Media citations.
 
-##Advanture Club website
+## Advanture Club website
 I have decided to make this website thinking about the unoffical community that me and my friends build 
 in order to travel togather and do different kind social acitivies.I took inspiration from alot of travel and 
 community websites but I have made the website in my own custom styling and theme.I have made up some most of information
