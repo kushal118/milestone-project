@@ -58,3 +58,11 @@ I have used Simple signup form contsisting email and password.Also user can sign
 **HTML hint** - for faster coding.  
 **Bootstrap 4 CDN snippet** - faster bootstrap boilerplate.  
 **Terms and Conditions generator** - Used to generate generic terms and conditions. https://www.termsandconditionsgenerator.com/
+## Code Credits
+- **Linear-gradient styling** was inspired from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s
+- **Carosel** - from Bootstrap Documentation
+-**Circle outline for images** was inspired from https://stackoverflow.com/questions/5394116/outline-radius
+-**Testimonial layout** from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s
+- **Hover Animations** from https://ianlunn.github.io/Hover/
+
+
