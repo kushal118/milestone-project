@@ -61,8 +61,9 @@ I have used Simple signup form contsisting email and password.Also user can sign
 ## Code Credits
 - **Linear-gradient styling** was inspired from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s
 - **Carosel** - from Bootstrap Documentation
--**Circle outline for images** was inspired from https://stackoverflow.com/questions/5394116/outline-radius
--**Testimonial layout** from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s
+- **Circle outline for images** was inspired from https://stackoverflow.com/questions/5394116/outline-radius
+- **Testimonial layout** from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s
 - **Hover Animations** from https://ianlunn.github.io/Hover/
+- **Carosel overlay** from https://www.youtube.com/watch?v=SXQ9l0ScDEA&t=300s
 
 
