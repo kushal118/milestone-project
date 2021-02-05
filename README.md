@@ -26,5 +26,17 @@ I have used 3 fonts for the Website EXO, ROBOTO and LONG CHAG, all of them are G
 theme of this website linear-gradient with black and blue which made the website bit mystery and very eye catching.
 Also added wave pictures to match with linnear-gradient look.Most of the font colors are white in the gradient areas which makes
 easy for users to read easily.
+#### Navigation Bar
+I have used Bootstrap navbar layout for my navigation bar but I have customized it with Club logo and Customize the navbar so that it doesnt look
+like typical bootstrap navbar.I have matched the linnear-gradiet theme color with the navbar color so that it look eye catching.
+#  Footer 
+In Footer has three sections Soical Media section, Motivator and Contact details.I have Font Awesome icons within circles and put the  background color of the 
+icon blue to match the Theme.Added Hover effect on the social media icons.
+#### Home page
+Home page has  a carosel displaying images with the Reasons to join the Adventure Club.I have put a banner along a with a signup botton with follows to the
+sign-up form.Also home page has a testimonial section where current member gave their testimonals.
 
+#### About us
+#### Gallery 
+#### Sign up
 
