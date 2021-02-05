@@ -16,6 +16,8 @@ body{
     z-index: 10;
 
 }
+    /*Linear-gradient styling was inspired from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s*/
+
 .navbar{
     background-image: linear-gradient(to right,#1d1f21,#3a3aaa);
     padding: 0;
@@ -55,12 +57,15 @@ color: #fafafa;
 }
 
     /*-----------------------------------------Banner-----------------------------------------------*/
+    /*Linear-gradient styling was inspired from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s*/
 #banner{
     background-image:  linear-gradient(to right,#1d1f21,#3a3aaa);
     color:#fff;
     padding-top: 5%;
     text-align: center;
 }
+    /*Linear-gradient styling was inspired from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s*/
+
 #reason{
     background-image: linear-gradient(to right,#1d1f21,#3a3aaa);
     padding-top: 20px; 
@@ -75,7 +80,7 @@ text-align: center;
 .w-100{
      height: 500px;
      }
-
+/*Carosel overlay from https://www.youtube.com/watch?v=SXQ9l0ScDEA&t=300s*/
 .carousel-item::after{
     content: "";
     width: 100%;
@@ -170,10 +175,13 @@ h5{
     background: #1c4979;
     
 }
+/*Hover effects for social media icons from https://www.w3schools.com/cssref/sel_hover.asp */
 .social-icons a:hover i{
     transform: translateY(-20px);
 }
 /*-----------------------------footer---------------------*/
+    /*Linear-gradient styling was inspired from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s*/
+
 #footer{
     background-image: linear-gradient(to right,#1d1f21,#3a3aaa); 
     color: #fff;

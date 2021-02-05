@@ -65,5 +65,6 @@ I have used Simple signup form contsisting email and password.Also user can sign
 - **Testimonial layout** from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s
 - **Hover Animations** from https://ianlunn.github.io/Hover/
 - **Carosel overlay** from https://www.youtube.com/watch?v=SXQ9l0ScDEA&t=300s
+- **Hover effects for social media icons** from https://www.w3schools.com/cssref/sel_hover.asp
 
 
