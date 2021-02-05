@@ -317,7 +317,7 @@ img:hover {
 }
 /*----------------------------------------gallery--------------------------*/ 
 
-
+/*Flexbox css from https://www.w3schools.com/css/css3_flexbox.asp*/
 .container1{
     display:flex;
     flex-wrap: wrap;

@@ -66,5 +66,18 @@ I have used Simple signup form contsisting email and password.Also user can sign
 - **Hover Animations** from https://ianlunn.github.io/Hover/
 - **Carosel overlay** from https://www.youtube.com/watch?v=SXQ9l0ScDEA&t=300s
 - **Hover effects for social media icons** from https://www.w3schools.com/cssref/sel_hover.asp
+- **Hover effec over board member** from https://stackoverflow.com/questions/7273927/image-greyscale-with-css-re-color-on-mouse-over
+- **Navbar** from Bootsrap Documentation
+- **Flexbox css** from https://www.w3schools.com/css/css3_flexbox.asp
 
 
+## Testing
+I tested my website in the following ways:
+- Google Chrome Dev Tools for PC and mobile
+- Safari on Mac, PC and iPhone
+- Mozilla Firefox PC
+- Microsoft Edge PC
+- Am I responsive http://ami.responsivedesign.is/
+- Asking friends and family to look and play with the site. 
+- Different resolution screens on my PC and laptop.  
+![Am I Responsive?](assets/images/mockups.JPG)
