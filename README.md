@@ -29,7 +29,7 @@ easy for users to read easily.
 #### Navigation Bar
 I have used Bootstrap navbar layout for my navigation bar but I have customized it with Club logo and Customize the navbar so that it doesnt look
 like typical bootstrap navbar.I have matched the linnear-gradiet theme color with the navbar color so that it look eye catching.
-#  Footer 
+#### Footer 
 In Footer has three sections Soical Media section, Motivator and Contact details.I have Font Awesome icons within circles and put the  background color of the 
 icon blue to match the Theme.Added Hover effect on the social media icons.
 #### Home page
@@ -37,7 +37,8 @@ Home page has  a carosel displaying images with the Reasons to join the Adventur
 sign-up form.Also home page has a testimonial section where current member gave their testimonals.I have put the images of the members in a circle along with
 a border on the top which make that section look symentic.
 #### About us
-
+In About us I have put the describtion of the club. Below the describtion I have put the board member details along with pictures.I have added a hover effect on the picture of the members which will rise up and add color to the picture.Also added hover effect on more info.Clicking more info will extend the detail of the member.Also added the font family of Long chag it will look more amazing.
 #### Gallery 
+I have added picture using flex box in order to make the pictures more responsive.Also I have added the hover effect on the pictures which will make images bigger and rise up.
 #### Sign up
-
+I have used Simple signup form with name
