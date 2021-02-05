@@ -41,4 +41,4 @@ In About us I have put the describtion of the club. Below the describtion I have
 #### Gallery 
 I have added picture using flex box in order to make the pictures more responsive.Also I have added the hover effect on the pictures which will make images bigger and rise up.
 #### Sign up
-I have used Simple signup form with name
+I have used Simple signup form contsisting email and password.Also user can signup with their facebook account.
