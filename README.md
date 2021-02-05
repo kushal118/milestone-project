@@ -42,3 +42,19 @@ In About us I have put the describtion of the club. Below the describtion I have
 I have added picture using flex box in order to make the pictures more responsive.Also I have added the hover effect on the pictures which will make images bigger and rise up.
 #### Sign up
 I have used Simple signup form contsisting email and password.Also user can signup with their facebook account.
+## Technologies Used
+**Github** - Github was used for storing my code and version control as well as hosting the live site.  
+**Gitpod** - I used Gitpod to code the site as well as push updates to Github.  
+**Python** - Python 3 was used via terminal to run a local webserver to preview the site while coding.  
+**Prettier** Code - I used Beautify to keep my code properly indented and easily readable.  
+**HTML5** - The core of the site was built with HTML version 5.  
+**CSS** - CSS was used to style the website and define fonts and layout.  
+**Bootstrap** - Bootsrap was used to align items and create items such as the Navbar, accordion, carosel, flipcards, forms etc.   
+**HVR** - I used hover effects from Ian Lunn at https://ianlunn.github.io/Hover/  
+**Google Maps** - Google maps embed from Google inc.  
+**Font Awesome** - Social Media icons from Font Awesome.  
+**Google Chrome** - The website was built and tested in google Chrome.  
+**Auto close tag** - self explanitory.  
+**HTML hint** - for faster coding.  
+**Bootstrap 4 CDN snippet** - faster bootstrap boilerplate.  
+**Terms and Conditions generator** - Used to generate generic terms and conditions. https://www.termsandconditionsgenerator.com/
