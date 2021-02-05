@@ -34,9 +34,10 @@ In Footer has three sections Soical Media section, Motivator and Contact details
 icon blue to match the Theme.Added Hover effect on the social media icons.
 #### Home page
 Home page has  a carosel displaying images with the Reasons to join the Adventure Club.I have put a banner along a with a signup botton with follows to the
-sign-up form.Also home page has a testimonial section where current member gave their testimonals.
-
+sign-up form.Also home page has a testimonial section where current member gave their testimonals.I have put the images of the members in a circle along with
+a border on the top which make that section look symentic.
 #### About us
+
 #### Gallery 
 #### Sign up
 
