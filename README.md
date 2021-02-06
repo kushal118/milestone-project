@@ -75,7 +75,10 @@ I have used Simple signup form contsisting email and password.Also user can sign
 - **Friends image [Friend](https://i.pinimg.com/originals/58/39/0d/58390d37a10ec77346b7ad3ed6ac7a48.jpg)** is from https://in.pinterest.com/pin/664562488738143486/
 - **wave images [Wave](https://www.pngkey.com/png/full/516-5161226_social-media-management-management.png)** is from https://www.pngkey.com/maxpic/u2r5a9y3a9i1i1a9/
 - **Footer wave Image** is from https://www.bayswaterinst.org/home/white-background-wave-2/
--**Ariena litz picture in testimonals** is taken from https://www.facebook.com/photo?fbid=3113536722043021&set=a.103837076346349
+- **Ariena litz picture in testimonals** is taken from https://www.facebook.com/photo?fbid=3113536722043021&set=a.103837076346349 with her permissson.
+- **Graville De Gromers in the board members section** is tken from https://www.facebook.com/photo?fbid=2006743152737553&set=a.109046259173928 with his permission.
+- **All other picture of board members** I asked my friends to give one their pictures and they sent me the pictures for the project.
+- **All the pictures in gallery** is taken by me.
 
 
 
@@ -89,3 +92,7 @@ I tested my website in the following ways:
 - Asking friends and family to look and play with the site. 
 - Different resolution screens on my PC and laptop.  
 ![Am I Responsive?](assets/images/mockups.JPG)
+## Validation
+
+![CSS level 3 + SVG](http://jigsaw.w3.org/css-validator/images/vcss)  
+HTML and CSS validated at https://jigsaw.w3.org/css-validator/validator and https://validator.w3.org/nu/ with no errors
