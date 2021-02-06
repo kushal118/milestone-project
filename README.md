@@ -98,4 +98,9 @@ I tested my website in the following ways:
 HTML and CSS validated at https://jigsaw.w3.org/css-validator/validator and https://validator.w3.org/nu/ with no errors
 
 ## Wireframes - Desktop
+![Home](https://i.ibb.co/WtD5Cxw/Home.jpg)
 ![About-US](https://i.ibb.co/n3KHZ4j/About.jpg)
+![Gallery](https://i.ibb.co/7zY92NV/gallery.jpg)
+![Sign-UP](https://i.ibb.co/RpkFDLG/signup.jpg)
+
+
