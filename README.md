@@ -69,7 +69,8 @@ I have used Simple signup form contsisting email and password.Also user can sign
 - **Hover effec over board member** from https://stackoverflow.com/questions/7273927/image-greyscale-with-css-re-color-on-mouse-over
 - **Navbar** from Bootsrap Documentation
 - **Flexbox css** from https://www.w3schools.com/css/css3_flexbox.asp
-
+## Photo Credits
+**Image of Northen lights** is from https://www.contiki.com/six-two/guide-seeing-northern-lights/
 
 ## Testing
 I tested my website in the following ways:
