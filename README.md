@@ -103,4 +103,17 @@ HTML and CSS validated at https://jigsaw.w3.org/css-validator/validator and http
 ![Gallery](https://i.ibb.co/7zY92NV/gallery.jpg)
 ![Sign-UP](https://i.ibb.co/RpkFDLG/signup.jpg)
 
+## Wireframes - Tablet/Ipad pro
+![Home](https://i.ibb.co/PYJbqjD/Ipad-home.jpg)
+![About](https://i.ibb.co/3f0zWdm/Ipad-about.jpg)
+![Gallery](https://i.ibb.co/8bVy9J6/Ipad-gallery.jpg)
+![Signup](https://i.ibb.co/frGYZNt/Ipad-signup.jpg)
+## Wireframes -Phone
+![Home](https://i.ibb.co/N7SFd9n/Phone-home.jpg)
+![About](https://i.ibb.co/JBTvtnv/Phone-about.jpg)
+![Gallery](https://i.ibb.co/ry7pNgC/Phone-gallery.jpg)
+![Signup](https://i.ibb.co/ZM4wsYH/Phone-signup.jpg)
+
+
+
 
