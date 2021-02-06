@@ -96,3 +96,6 @@ I tested my website in the following ways:
 
 ![CSS level 3 + SVG](http://jigsaw.w3.org/css-validator/images/vcss)  
 HTML and CSS validated at https://jigsaw.w3.org/css-validator/validator and https://validator.w3.org/nu/ with no errors
+
+## Wireframes - Desktop
+![About-US](<a href=https://i.ibb.co/n3KHZ4j/About.jpg
