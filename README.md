@@ -70,7 +70,13 @@ I have used Simple signup form contsisting email and password.Also user can sign
 - **Navbar** from Bootsrap Documentation
 - **Flexbox css** from https://www.w3schools.com/css/css3_flexbox.asp
 ## Photo Credits
-**Image of Northen lights** is from https://www.contiki.com/six-two/guide-seeing-northern-lights/
+**Image of Northen lights [Northen lights](https://www.contiki.com/six-two/wp-content/uploads/2017/09/1440-iceland-2111811_1920.png)** is from https://www.contiki.com/six-two/guide-seeing-northern-lights/ .
+**Party image [Party](https://www.sxsw.com/wp-content/uploads/2019/06/SXSW-Party-photo-by-aaron-rogosin.png)** is from https://www.sxsw.com/networking/lounges-parties/
+**Friends image [Friend](https://i.pinimg.com/originals/58/39/0d/58390d37a10ec77346b7ad3ed6ac7a48.jpg)** is from https://in.pinterest.com/pin/664562488738143486/
+
+
+
+
 
 ## Testing
 I tested my website in the following ways:
