@@ -75,7 +75,7 @@ I have used Simple signup form contsisting email and password.Also user can sign
 - **Friends image [Friend](https://i.pinimg.com/originals/58/39/0d/58390d37a10ec77346b7ad3ed6ac7a48.jpg)** is from https://in.pinterest.com/pin/664562488738143486/
 - **wave images [Wave](https://www.pngkey.com/png/full/516-5161226_social-media-management-management.png)** is from https://www.pngkey.com/maxpic/u2r5a9y3a9i1i1a9/
 - **Footer wave Image** is from https://www.bayswaterinst.org/home/white-background-wave-2/
-
+-**Ariena litz picture in testimonals** is taken from https://www.facebook.com/photo?fbid=3113536722043021&set=a.103837076346349
 
 
 
