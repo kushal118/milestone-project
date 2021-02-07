@@ -99,7 +99,7 @@ HTML and CSS validated at https://jigsaw.w3.org/css-validator/validator and http
 
 ## Wireframes - Desktop
 ![Home](https://i.ibb.co/WtD5Cxw/Home.jpg)
-![About-US](https://i.ibb.co/n3KHZ4j/About.jpg)
+![About-US](https://i.ibb.co/f8H7g6x/About.jpg)
 ![Gallery](https://i.ibb.co/7zY92NV/gallery.jpg)
 ![Sign-UP](https://i.ibb.co/RpkFDLG/signup.jpg)
 
