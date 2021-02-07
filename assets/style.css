@@ -429,6 +429,7 @@ hr{
 .account{
     padding: 5%;
 }
+/*Hover Animations from https://ianlunn.github.io/Hover/--->*/
 .signup-btn:hover{
     background-color: red;
 }

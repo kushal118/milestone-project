@@ -68,7 +68,9 @@ I have used Simple signup form contsisting email and password.Also user can sign
 - **Hover effec over board member** from https://stackoverflow.com/questions/7273927/image-greyscale-with-css-re-color-on-mouse-over
 - **Navbar** from Bootsrap Documentation
 - **Flexbox css** from https://www.w3schools.com/css/css3_flexbox.asp
--**Layout of the board member in About us** inspired from https://github.com/Kdoggg666/MS1-Band-website.
+- **Layout of the board member in About us** inspired from https://github.com/Kdoggg666/MS1-Band-website.
+- **Footer** is inspired from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2292s
+
 ## Photo Credits
 - **Image of Northen lights [Northen lights](https://www.contiki.com/six-two/wp-content/uploads/2017/09/1440-iceland-2111811_1920.png)** is from https://www.contiki.com/six-two/guide-seeing-northern-lights/ .
 - **Party image [Party](https://www.sxsw.com/wp-content/uploads/2019/06/SXSW-Party-photo-by-aaron-rogosin.png)** is from https://www.sxsw.com/networking/lounges-parties/
