@@ -45,8 +45,7 @@ I have used Simple signup form contsisting email and password.Also user can sign
 ## Technologies Used
 **Github** - Github was used for storing my code and version control as well as hosting the live site.  
 **Gitpod** - I used Gitpod to code the site as well as push updates to Github.  
-**Python** - Python 3 was used via terminal to run a local webserver to preview the site while coding.  
-**Prettier** Code - I used Beautify to keep my code properly indented and easily readable.  
+**Python** - Python 3 was used via terminal to run a local webserver to preview the site while coding.    
 **HTML5** - The core of the site was built with HTML version 5.  
 **CSS** - CSS was used to style the website and define fonts and layout.  
 **Bootstrap** - Bootsrap was used to align items and create items such as the Navbar, accordion, carosel, flipcards, forms etc.   
@@ -96,6 +95,25 @@ I tested my website in the following ways:
 
 ![CSS level 3 + SVG](http://jigsaw.w3.org/css-validator/images/vcss)  
 HTML and CSS validated at https://jigsaw.w3.org/css-validator/validator and https://validator.w3.org/nu/ with no errors
+
+## Issues and Troubleshooting
+- **Drop down navbar in mobile view** I was struggling with how can I make dropdown navbar in mobiles.I googled it and 
+found the solution in Bootstrap Documentation
+- **Changing color of default bootsrap navbar color** It took me while to get use to the changing color of default bootstrap colors.
+I went back to previous lessons again and again to get use to the process
+- **Difficulty changing the length and width of the Carosel/image slider** I had alot difficulties to maintaining same size of the images of Carosel.
+I seached in google alot for this problem and finally I got the solution I have targeted the image class and put same height.
+ - **Carosel olverlay** The texts in the carosel was not clearly visiable when I first tried to put text in the carosel.After alot of search I found out
+ about the overlay to create layer of shadow in the carosel/image slider.
+ - **Difficulting make the image round and puting it in round border** making the images round and put them in border circle was difficult in the beginning.I have googled alot
+ and also took help from Chrome Dev tools by trail and error.
+ - **Deciding the background color** I had spent alot of time deciding the background color of Navbar,Banner and Footer.As I have chosen Linear-gradient 
+ I had  to come up with a good combination of colors to make the effect look smooth.Had to do alot of trial and error in Chrome Dev tools.
+ - **Hover effect** I was little bit confused how to use hover effect perfectly.As I prograss with project and got alot of help from W3Schools ,I have become more confident at using hover effect.
+ - **Using Flexbox** I had a alot trouble arrannging the gallery.After alot time spent with css grid,I have decided to use flex box which more easy to use and more responsive
+
+
+
 
 ## Wireframes - Desktop
 ![Home](https://i.ibb.co/WtD5Cxw/Home.jpg)
