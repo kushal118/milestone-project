@@ -64,6 +64,10 @@ color: #fafafa;
     padding-top: 5%;
     text-align: center;
 }
+.signup:hover{
+    background-color: red;
+    color: blue;
+}
     /*Linear-gradient styling was inspired from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s*/
 
 #reason{
