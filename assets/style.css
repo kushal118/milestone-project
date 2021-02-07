@@ -296,6 +296,7 @@ font-size:20px;
   height: 20%;
   font-size: 24px;
 }
+/*Hover Animations from https://ianlunn.github.io/Hover/--->*/
 
 .bio-frame button:hover {
   color: red;
@@ -315,6 +316,8 @@ font-size:20px;
   -webkit-filter: grayscale(1);
   /* Google Chrome & Safari 6+ */
 }
+/*Hover Animations from https://ianlunn.github.io/Hover/--->*/
+
 img:hover {
   filter: none;
   -webkit-filter: none;
