@@ -1,0 +1,445 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo:wght@100;300;400;500;600;700&family=Roboto:wght@100;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Long+Cang&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+/*-----------------------------------------Navbar-----------------------------------------------*/
+#nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+/*Linear-gradient styling was inspired from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s*/
+.navbar {
+  background-image: linear-gradient(to right, #1d1f21, #3a3aaa);
+  padding: 20px 5px;
+}
+
+.navbar-brand {
+  font-family: "Exo", sans-serif;
+  font-weight: 700;
+  color: #fafafa !important;
+  padding-left: 5px;
+}
+
+.navbar-brand i {
+  font-size: 40px;
+  padding-left: 20px;
+  color: #fafafa;
+}
+
+.navbar-nav li {
+  padding: 0 10px;
+}
+
+.navbar-nav li a {
+  font-family: "Exo", sans-serif;
+  font-weight: 700;
+  color: #fafafa !important;
+  text-align: center;
+}
+
+.fa-bars {
+  color: #fff;
+  font-size: 30px !important;
+}
+
+.navbar-toggler {
+  outline: none !important;
+}
+
+/*-----------------------------------------Banner-----------------------------------------------*/
+/*Linear-gradient styling was inspired from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s*/
+#banner {
+  background-image: linear-gradient(to right, #1d1f21, #3a3aaa);
+  color: #fff;
+  padding-top: 5%;
+  text-align: center;
+}
+
+.signup:hover {
+  background-color: red;
+  color: blue;
+}
+
+/*Linear-gradient styling was inspired from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s*/
+#reason {
+  background-image: linear-gradient(to right, #1d1f21, #3a3aaa);
+  padding-top: 20px;
+}
+
+h2 {
+  color: #fafafa;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+.w-100 {
+  height: 500px;
+}
+
+/*Carosel overlay from https://www.youtube.com/watch?v=SXQ9l0ScDEA&t=300s*/
+.carousel-item::after {
+  content: "";
+  width: 100%;
+  height: 500px;
+  background-color: #333;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: .7;
+}
+
+.carousel-item {
+  position: relative;
+}
+
+.carousel-item>* {
+  z-index: 10;
+}
+
+h5 {
+  font-family: "Roboto", sans-serif;
+  font-size: 50px;
+}
+
+.bottom-img {
+  width: 100%;
+}
+
+/*------------------------------------------------------textimonials------------------------*/
+.title {
+  color: #2d6096;
+  font-family: "Exo", sans-serif;
+  font-weight: 700;
+}
+
+.title::before {
+  content: '';
+  background: #1c4979;
+  height: 5px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(63px);
+}
+
+.title::after {
+  content: '';
+  background: #1c4979;
+  height: 10px;
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  display: block;
+  transform: translateY(18px);
+}
+
+.testimonial {
+  border-left: 4px solid #1c4979;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.testimonial img {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  margin: 0 10px;
+}
+
+.user-detail {
+  display: inline-block;
+  font-size: 12px;
+}
+
+/*-------------------------------------------Social media---------------------------------*/
+#social-media {
+  background: #f8f9fa;
+  padding: 100px 0;
+}
+
+#social-media p {
+  font-size: 36px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.social-icons i {
+  padding: 0 30px;
+}
+
+.social-icons a i {
+  height: 60px;
+  width: 60px;
+  transition: 0.5s;
+  font-size: 25px;
+  padding: 12px 5px;
+  border-radius: 50%;
+  line-height: 35px;
+  text-align: center;
+  color: #fafafa;
+  background: #1c4979;
+}
+
+/*Hover effects for social media icons from https://www.w3schools.com/cssref/sel_hover.asp */
+.social-icons a:hover i {
+  transform: translateY(-20px);
+}
+
+/*-----------------------------footer---------------------*/
+/*Linear-gradient styling was inspired from https://www.youtube.com/watch?v=v0IgI8vYD_o&t=2834s*/
+#footer {
+  background-image: linear-gradient(to right, #1d1f21, #3a3aaa);
+  color: #fff;
+  margin: 0;
+}
+
+.footer-img {
+  width: 100%;
+}
+
+.footer-box {
+  padding: 20px 10px 20px;
+  margin: 0;
+}
+
+.footer-logo {
+  font-family: "Exo", sans-serif;
+  font-weight: 700;
+  color: #fafafa !important;
+  padding-left: 5px;
+}
+
+.footer-box p {
+  text-align: left;
+  margin-left: 20px;
+}
+
+.fa-wpexplorer {
+  content: "\f2de";
+  font-size: 20px;
+}
+
+.contact {
+  padding: 10px 20px;
+  margin: 0 auto;
+}
+
+h6 {
+  font-size: 20px;
+}
+
+/*-------------------------------------------------------------About Us-----------------------------------------*/
+#about {
+  font-family: sans-serif;
+}
+
+.bio-frame {
+  background-color: transparent;
+  margin: 40px 20px 20px 20px;
+  text-align: center;
+  font-family: "lobster", sans-serif;
+  color: rgb(1, 6, 10);
+  overflow-wrap: normal;
+  border-top: 5px solid #3a3aaa;
+  text-shadow: 2px 2px rgb(228, 222, 227);
+  min-width: 400px;
+  max-width: 550px;
+}
+
+.bio-frame h3 {
+  padding-top: 10px;
+  font-size: 40px;
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+.bio-frame h4 {
+  padding-top: 10px;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.bio-image {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  /* - code for circle outline from user Heraldmonkey at https://stackoverflow.com/questions/5394116/outline-radius */
+  border: #1d1f21 solid 5px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 0px 2px #fafafa inset;
+  float: left;
+  top: -50px;
+  left: -25px;
+  cursor: pointer;
+}
+
+.bio-accordion {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.bio-accordion .card {
+  background-color: transparent;
+}
+
+.bio-accordion .card-body {
+  font-family: "sans-serif";
+  font-size: 25px;
+}
+
+.bio-frame a {
+  color: #ea3c53;
+  text-decoration: none;
+}
+
+.bio-frame button {
+  color: black;
+  text-decoration: none;
+  width: 100%;
+  height: 20%;
+  font-size: 24px;
+}
+
+/*Hover Animations from https://ianlunn.github.io/Hover/--->*/
+.bio-frame button:hover {
+  color: red;
+  text-decoration: none;
+}
+
+.btn.focus,
+.btn:focus {
+  box-shadow: none;
+  outline: none;
+}
+
+/* ---- Code from https://stackoverflow.com/questions/7273927/image-greyscale-with-css-re-color-on-mouse-over */
+.bio-img {
+  filter: url(filters.svg#grayscale);
+  /* Firefox 3.5+ */
+  -webkit-filter: grayscale(1);
+  /* Google Chrome & Safari 6+ */
+}
+
+/*Hover Animations from https://ianlunn.github.io/Hover/--->*/
+img:hover {
+  filter: none;
+  -webkit-filter: none;
+}
+
+/*----------------------------------------gallery--------------------------*/
+/*Flexbox css from https://www.w3schools.com/css/css3_flexbox.asp*/
+.container1 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+  height: 300px;
+  width: 350px;
+}
+
+.container1 .image {
+  margin: 1px;
+}
+
+/*-------------------------------------------signup form---------------------------------*/
+#signup {
+  padding: 10%;
+  font-family: sans-serif;
+  background-image: linear-gradient(to right, #1d1f21, #3a3aaa);
+  padding-bottom: 20%;
+}
+
+.sign-up-form {
+  width: 300px;
+  height: auto;
+  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+  background: #fff;
+  margin: 8% auto;
+  text-align: center;
+}
+
+.sign-up-form h3 {
+  color: rgb(85, 85, 185);
+  margin-bottom: 30px;
+}
+
+.form-check {
+  text-align: left;
+  color: #1d1f21;
+  margin: 5px;
+}
+
+.form-check-label {
+  font-family: "Exo", sans-serif;
+  font-size: 25px;
+}
+
+.form-check a {
+  text-decoration: none;
+  color: #ff073a;
+}
+
+.input-box {
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px 0;
+  width: 90%;
+  border: 1px solid #999;
+  outline: none;
+}
+
+button {
+  font-size: 15px;
+  margin: 10px 0;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.signup-btn {
+  border-radius: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  margin-top: 20px;
+}
+
+.or {
+  color: #1d1f21;
+  background: #fff;
+  width: 30px;
+  margin: -28px auto 10px;
+  font-weight: 600;
+}
+
+.account {
+  padding: 5%;
+}
+
+/*Hover Animations from https://ianlunn.github.io/Hover/--->*/
+.signup-btn:hover {
+  background-color: red;
+}
