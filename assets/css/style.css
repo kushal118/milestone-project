@@ -377,9 +377,13 @@ img {
   text-align: center;
 }
 
-.sign-up-form h3 {
+
+.signup-header{
+  
   color: rgb(85, 85, 185);
   margin-bottom: 30px;
+  padding: 20px;
+
 }
 
 .form-check {
@@ -442,4 +446,31 @@ hr {
 /*Hover Animations from https://ianlunn.github.io/Hover/--->*/
 .signup-btn:hover {
   background-color: red;
+}
+
+@media(max-width:532px){
+  h1{
+    font-size: 2.05rem;
+  }
+  p{
+    font-size: 17px;
+  }
+
+}
+@media(max-width:378px){
+  img{
+    height: 250px;
+    width: 250px;
+  }
+  .social-icons a i {
+    height: 40px;
+    width: 40px;
+    transition: 0.5s;
+    font-size: 25px;
+    padding: 3px 9px;
+    border-radius: 50%;
+    line-height: 35px;
+    text-align: center;
+    color: #fafafa;
+    background: #1c4979;
 }
